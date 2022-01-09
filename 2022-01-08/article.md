@@ -37,4 +37,4 @@ This year I am planning to release one post each month, hopefully allowing me en
 Feel free to comment the topics that sound the most interesting to you. Bonus points if you name something specific on one of the above topics. I would like to prioritize the release of my posts based on your feedback. Thanks for reading so far and see you until the next post! Be safe and stay healthy.
 
 ----
-Additional puzzle: In case you are unsure what the correct answer to the trivia question is or you are simply bored - I have hidden the correct answer somewhere in the fortune cookie image. You will need this link to find it: --. Keep in mind, that the image you can see on Medium is not the original - hence the link. ;)
+Additional puzzle: In case you are unsure what the correct answer to the trivia question is or you are simply bored - I have hidden the correct answer somewhere in the fortune cookie image. You will need this link to find it: https://github.com/nrrso/medium-blog/raw/main/2022-01-08/feature-image.jpeg. Keep in mind, that the image you can see on Medium is not the original - hence the link. ;)
